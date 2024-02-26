@@ -12,7 +12,7 @@ export default function CallToAction() {
           className="rounded-tl-xl rounded-bl-none"
         >
           <a
-            href="https://3d-portfolio-orpin-tau.vercel.app"
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
           >
